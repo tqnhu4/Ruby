@@ -1,4 +1,4 @@
-# rock_paper_scissors.rb
+# app.rb
 
 # Define the possible game choices
 CHOICES = ['rock', 'paper', 'scissors']
